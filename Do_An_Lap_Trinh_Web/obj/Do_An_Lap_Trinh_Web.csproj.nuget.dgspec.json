@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lap_Trinh_Web\\BUOi2\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web.csproj": {}
+    "E:\\Download\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web.csproj": {}
   },
   "projects": {
-    "D:\\Lap_Trinh_Web\\BUOi2\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web.csproj": {
+    "E:\\Download\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lap_Trinh_Web\\BUOi2\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web.csproj",
+        "projectUniqueName": "E:\\Download\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web.csproj",
         "projectName": "Do_An_Lap_Trinh_Web",
-        "projectPath": "D:\\Lap_Trinh_Web\\BUOi2\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Lap_Trinh_Web\\BUOi2\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web\\obj\\",
+        "projectPath": "E:\\Download\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "E:\\Download\\Do_An_Lap_Trinh_Web\\Do_An_Lap_Trinh_Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
